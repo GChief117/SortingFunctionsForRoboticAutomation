@@ -1,6 +1,6 @@
 # Package Sorting Function
 
-Functions in Python, C++, Javascript, and Typescript for a morning challenge with an robotic automation factory which dispatches packages to the correct stack based on volume and mass.
+Functions in Python, C++, Javascript, Typescript, and Java for a morning challenge with an robotic automation factory which dispatches packages to the correct stack based on volume and mass.
 
 ## Rules
 
@@ -38,6 +38,11 @@ sort(width, height, length, mass) -> string
 python sort.py
 ```
 
+### C++
+```bash
+g++ -std=c++11 sort.cpp -o sort && ./sort
+```
+
 ### JavaScript
 ```bash
 node sort.js
@@ -48,10 +53,11 @@ node sort.js
 npx ts-node sort.ts
 ```
 
-### C++
+### Java
 ```bash
-g++ -std=c++11 sort.cpp -o sort && ./sort
+javac Sort.java && java Sort
 ```
+
 
 ## Example Table
 
