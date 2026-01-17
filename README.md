@@ -1,6 +1,6 @@
 # Package Sorting Function
 
-A function for Thoughtful's robotic automation factory that dispatches packages to the correct stack based on volume and mass.
+Functions in Python, C++, Javascript, and Typescript for a morning challenge with an robotic automation factory which dispatches packages to the correct stack based on volume and mass.
 
 ## Rules
 
@@ -53,7 +53,7 @@ npx ts-node sort.ts
 g++ -std=c++11 sort.cpp -o sort && ./sort
 ```
 
-## Examples
+## Example Table
 
 | Width | Height | Length | Mass | Volume | Bulky? | Heavy? | Result |
 |-------|--------|--------|------|--------|--------|--------|--------|
