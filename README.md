@@ -11,7 +11,7 @@ A package is **bulky** if:
 A package is **heavy** if:
 - Mass is greater than or equal to 20 kg
 
-## Stack Assignment
+## Category Table
 
 | Condition | Stack |
 |-----------|-------|
